@@ -1,3 +1,7 @@
+footer{
+	background-color: #e62b1e;
+	color: #ffffff;
+}
 ul.tedxtopnav{
 	overflow:hidden;
 	color:white;
@@ -11,11 +15,12 @@ ul.tedxtopnav li{
 }
 .tedxicon{
 	float:left;
-	margin:15px 20px;
+	margin:15px 0px;
+	margin-bottom: 15px;
 	overflow: hidden!important;
 	background-size: cover;
-
 }
+
 ul.tedxtopnav li a{
 	color:black;
 	padding:10px 10px;
@@ -29,7 +34,7 @@ ul.tedxtopnav li a:hover{
 }
 .tedxicon{
 	height:50px;
-	width:150px;
+	width:250px;
 }
 .tedx1{
 	height: 100%!important;
@@ -62,21 +67,7 @@ h3{
 	font-family: 'Helvetica';
 	color: black;
 }
-.jkl{
-	background-color: rgb(230,43,30);
-	height: 370px;
-}
-.jklh{
-	font-family: 'Open Sans';
-	color: white;
-	padding-top: 100px;
-}
-.lead2{
-	font-size: 20px;
-	font-family: 'Helvetica';
-	color: white;
-	font-weight: 200;
-}
+
 .btn2{
 	font-family: 'Open Sans';
   transition: 0.1s linear;
