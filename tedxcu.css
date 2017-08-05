@@ -1,0 +1,106 @@
+ul.tedxtopnav{
+	overflow:hidden;
+	color:white;
+	background-color:white;
+	margin:0;
+	padding:20px 20px;
+	list-style-type: none;
+}
+ul.tedxtopnav li{
+	float:right;
+}
+.tedxicon{
+	float:left;
+	margin:15px 20px;
+	overflow: hidden!important;
+	background-size: cover;
+
+}
+ul.tedxtopnav li a{
+	color:black;
+	padding:10px 10px;
+	font-size: 12px;
+	font-family: Helvetica;
+	text-align: center;
+	text-decoration: none;
+}
+ul.tedxtopnav li a:hover{
+	color:rgb(230,43,30);
+}
+.tedxicon{
+	height:50px;
+	width:150px;
+}
+.tedx1{
+	height: 100%!important;
+	width:100%!important;
+}
+ul.menu li a:hover{
+	color:rgb(230,43,30);
+	padding:10px 10px;
+	font-size: 12px;
+	font-family: Helvetica;
+	text-align: center;
+	text-decoration: none;
+}
+ul.menu li a{
+	text-transform: capitalize;
+	color:black;
+	padding:10px 10px;
+	font-size: 12px;
+	font-family: Helvetica;
+	text-align: center;
+	text-decoration: none;
+}
+h3{
+	color: rgb(230,43,30);
+	font-family: 'Open Sans';
+	font-weight: 200;
+}
+.lead{
+	font-size: 20px;
+	font-family: 'Helvetica';
+	color: black;
+}
+.jkl{
+	background-color: rgb(230,43,30);
+	height: 370px;
+}
+.jklh{
+	font-family: 'Open Sans';
+	color: white;
+	padding-top: 100px;
+}
+.lead2{
+	font-size: 20px;
+	font-family: 'Helvetica';
+	color: white;
+	font-weight: 200;
+}
+.btn2{
+	font-family: 'Open Sans';
+  transition: 0.1s linear;
+  -webkit-transition: 0.1s linear;
+  -moz-transition: 0.1s linear;
+  border-radius: 100px;
+  padding-top: 0.54166667em;
+  padding-bottom: 0.65em;
+  padding-right: 3.25em;
+  padding-left: 3.25em;
+  border: 1px solid #232323;
+  border-width: 2px;
+  font-size: inherit;
+  line-height: 1.625em;
+  text-transform: uppercase;
+  background-color: white;
+  border-color: transparent;
+}
+.btn:hover {
+  border-color: transparent;
+}
+a.btn:hover span{
+  color: rgb(230,43,30);
+}
+.img-circle{
+	border-radius: 50%;
+}
