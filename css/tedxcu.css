@@ -1,9 +1,18 @@
-h1,h2,h3,h4,h5,h6,p,label,span,li,a{
+h1,h2,h3,h4,h5,h6,p,label,span,li,a,input{
 	font-family: 'Helvetica'!important;
 }
 footer{
 	background-color: #e62b1e;
 	color: #ffffff;
+}
+.redfont{
+	color: #e62b1e !important;
+}
+.blackfont{
+	color: #000 !important;
+}
+.whitefont{
+	color: #fff !important;
 }
 ul.tedxtopnav{
 	overflow:hidden;
@@ -68,7 +77,7 @@ h3{
 .lead{
 	font-size: 20px;
 	font-family: 'Helvetica';
-	color: black;
+	color: #333;
 }
 .helvetica{
 	font-family: 'Helvetica'!important;
