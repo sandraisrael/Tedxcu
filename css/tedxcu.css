@@ -79,6 +79,9 @@ h3{
 	font-family: 'Helvetica';
 	color: #333;
 }
+.vpe{
+	cursor: pointer;
+}
 .helvetica{
 	font-family: 'Helvetica'!important;
 }
