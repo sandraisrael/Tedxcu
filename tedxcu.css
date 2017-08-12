@@ -67,7 +67,9 @@ h3{
 	font-family: 'Helvetica';
 	color: black;
 }
-
+.helvetica{
+	font-family: 'Helvetica'!important;
+}
 .btn2{
 	font-family: 'Open Sans';
   transition: 0.1s linear;
